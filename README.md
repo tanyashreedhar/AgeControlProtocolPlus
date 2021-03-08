@@ -6,7 +6,7 @@ Age Control Protocol+ (ACP+) is a novel transport layer protocol,that enables ti
 
 ACP+ is published at IEEE INFOCOM AOI Workshop 2021
 
-T. Shreedhar, S. K. Kaul and R. D. Yates, "An Empirical Study of Ageing in the Cloud," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS).
+> T. Shreedhar, S. K. Kaul and R. D. Yates, "An Empirical Study of Ageing in the Cloud," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS).
 
 # ACP+ Operation
 
