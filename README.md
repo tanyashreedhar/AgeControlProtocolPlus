@@ -1,4 +1,4 @@
-# AgeControlProtocol+
+# Age Control Protocol+
 
 The next generation of networks must support billions of connected devices in the Internet-of-Things (IoT). To support IoT applications, sources sense and send their measurement updates over the Internet to a monitor (control station) for real-time monitoring and actuation. Ideally, these updates would be delivered at a high rate, only constrained by the sensing rate supported by the sources. However, given network constraints, such a rate may lead to delays in delivery of updates at the monitor that make the freshest update at the monitor unacceptably old for the application.
 
