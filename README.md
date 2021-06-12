@@ -4,9 +4,15 @@ The next generation of networks must support billions of connected devices in th
 
 Age Control Protocol+ (ACP+) is a novel transport layer protocol,that enables timely delivery of such updates to monitors, in a network-transparent manner. ACP+ allows the source to adapt its rate of updates to dynamic network conditions such that the average age of the sensed information at the monitor is minimized.
 
+## If you are using this code, please cite our following works
+
 ACP+ is published at IEEE INFOCOM AOI Workshop 2021
 
 > T. Shreedhar, S. K. Kaul and R. D. Yates, "An Empirical Study of Ageing in the Cloud," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS).
+
+ACP (previous version of this code) was published in IEEE WoWMoM 2019
+
+> T. Shreedhar, S. K. Kaul and R. D. Yates, "An Age Control Transport Protocol for Delivering Fresh Updates in the Internet-of-Things," 2019 IEEE 20th International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM), 2019, pp. 1-7, doi: 10.1109/WoWMoM.2019.8793011.
 
 # ACP+ Operation
 
